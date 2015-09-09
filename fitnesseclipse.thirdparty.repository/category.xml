@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/fitnesseclipse.thirdparty.feature_1.0.0.qualifier.jar" id="fitnesseclipse.thirdparty.feature" version="1.0.0.qualifier">
+      <category name="Fitnesse Eclipse Thirdparty"/>
+   </feature>
+   <category-def name="Fitnesse Eclipse Thirdparty" label="Fitnesse Eclipse Thridparty"/>
+</site>
